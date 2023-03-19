@@ -1,0 +1,45 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #3A454E;
+  --color-bg-base: #495662;
+  --color-bg-surface: #586776;
+  --color-bg-highlight: #667889;
+  --color-fg-shade: #7ED8F1;
+  --color-fg-base: #D1F1FA;
+  --color-fg-surface: #FFFFFF;
+  --color-fg-highlight: #FFFFFF;
+  --color-primary-bg: #31455B;
+  --color-primary-base: #698BAE;
+  --color-primary-fg: #C4D1DF;
+  --color-secondary-bg: #623B43;
+  --color-secondary-base: #B5848E;
+  --color-secondary-fg: #F0E6E8;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: Quicksand;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 900px;
+  --surface-shadow: 1px 1px 0px rgb(49, 69, 91), 2px 2px 0px rgb(51.041666666666664, 68.58333333333333, 90), 3px 3px 0px rgb(53.083333333333336, 68.16666666666667, 89), 4px 4px 0px rgb(55.125, 67.75, 88), 5px 5px 0px rgb(57.166666666666664, 67.33333333333333, 87), 6px 6px 0px rgb(59.20833333333333, 66.91666666666667, 86), 7px 7px 0px rgb(61.25, 66.5, 85), 8px 8px 0px rgb(63.291666666666664, 66.08333333333333, 84), 9px 9px 0px rgb(65.33333333333333, 65.66666666666667, 83), 10px 10px 0px rgb(67.375, 65.25, 82), 11px 11px 0px rgb(69.41666666666666, 64.83333333333333, 81), 12px 12px 0px rgb(71.45833333333333, 64.41666666666667, 80), 13px 13px 0px rgb(73.5, 64, 79), 14px 14px 0px rgb(75.54166666666666, 63.583333333333336, 78), 15px 15px 0px rgb(77.58333333333333, 63.166666666666664, 77), 16px 16px 0px rgb(79.625, 62.75, 76), 17px 17px 0px rgb(81.66666666666666, 62.333333333333336, 75), 18px 18px 0px rgb(83.70833333333333, 61.916666666666664, 74), 19px 19px 0px rgb(85.75, 61.5, 73), 20px 20px 0px rgb(87.79166666666666, 61.083333333333336, 72), 21px 21px 0px rgb(89.83333333333333, 60.666666666666664, 71), 22px 22px 0px rgb(91.875, 60.25, 70), 23px 23px 0px rgb(93.91666666666666, 59.83333333333333, 69), 24px 24px 0px rgb(95.95833333333333, 59.416666666666664, 68), 25px 25px 0px rgb(98, 59, 67);
+  --surface-borderRadius: 32px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 2;
+}
